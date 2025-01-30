@@ -1,1 +1,2 @@
-# Sampling-Rate-Thresholds
+# Sampling-Rate-Thresholds For Accelerometer
+
